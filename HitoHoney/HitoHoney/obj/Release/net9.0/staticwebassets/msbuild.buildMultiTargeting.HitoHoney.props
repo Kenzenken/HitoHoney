@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HitoHoney.props" />
+</Project>
